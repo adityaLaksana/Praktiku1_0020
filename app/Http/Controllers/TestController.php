@@ -13,7 +13,7 @@ class TestController extends Controller
 
     public function article()
     {
-        return view("article");
+        return view("article0020");
     }
 
     public function contact()
